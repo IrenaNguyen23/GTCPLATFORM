@@ -1,0 +1,1 @@
+<title><?php echo e($title??''); ?> - Admin</title><?php /**PATH /home/deviceaz/gtcplatform.exproweb.com/resources/views/admin/layouts/seo.blade.php ENDPATH**/ ?>
